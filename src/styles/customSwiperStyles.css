@@ -1,0 +1,19 @@
+/* Custom styles for Swiper navigation arrow */
+.swiper-button-prev, .swiper-button-next {
+    color:  #242A24;
+; 
+  }
+  
+  /* Custom styles for active Swiper pagination bullet */
+  .swiper-pagination-bullet-active {
+    background-color: #242A24;
+; 
+  }
+
+  /* styles to take out shadow from cube effect */
+.swiper-slide-shadow-bottom, 
+.swiper-slide-shadow-left, 
+.swiper-slide-shadow-right, 
+.swiper-slide-shadow-top {
+    display: none !important;
+}
