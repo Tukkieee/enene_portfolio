@@ -11,7 +11,7 @@ export const Works = () => {
         <div className="project-list">
             <div className="project-box">
                 <div className="project-img">
-                    <a href="*"><img src={Calnita} alt="calnita" /></a>
+                    <a href="https://www.calnita.com/" target="_blank"><img src={Calnita} alt="calnita" /></a>
                 </div>
                 <div className="project-name">
                     <h3>Calnita</h3>
@@ -26,7 +26,7 @@ export const Works = () => {
             </div>
             <div className="project-box">
                 <div className="project-img">
-                    <a href="*"><img src={Osuma} alt="osuma" /></a>
+                    <a href="https://www.osumasuya.com/Home#menu" target="_blank"><img src={Osuma} alt="osuma" /></a>
                 </div>
                 <div className="project-name">
                     <h3>Osuma Suya</h3>
@@ -41,7 +41,7 @@ export const Works = () => {
             </div>
             <div className="project-box">
                 <div className="project-img">
-                    <a href="*"><img src={Learna} alt="learna" /></a>
+                    <a href="https://medium.com/@enenemiracle/learna-app-case-study-be70fccfb098" target="_blank"><img src={Learna} alt="learna" /></a>
                 </div>
                 <div className="project-name">
                     <h3>Learna</h3>
@@ -56,7 +56,7 @@ export const Works = () => {
             </div>
             <div className="project-box">
                 <div className="project-img">
-                    <a href="*"><img src={Shape} alt="shapesend" /></a>
+                    <a href="https://medium.com/@enenemiracle/fintech-case-study-aff65f1370d0" target="_blank" ><img src={Shape} alt="shapesend" /></a>
                 </div>
                 <div className="project-name">
                     <h3>Shapesend</h3>
@@ -71,7 +71,7 @@ export const Works = () => {
             </div>
             <div className="project-box">
                 <div className="project-img">
-                    <a href="*"><img src={Commerce} alt="e-commerce" /></a>
+                    <a href="https://www.behance.net/gallery/148393775/SAGELEGS-LANDING-PAGE" target="_blank"><img src={Commerce} alt="e-commerce" /></a>
                 </div>
                 <div className="project-name">
                     <h3>E-commerce</h3>
@@ -86,7 +86,7 @@ export const Works = () => {
             </div>
             <div className="project-box">
                 <div className="project-img">
-                    <a href="*"><img src={Education} alt="education" /></a>
+                    <a href="https://www.behance.net/gallery/162591731/EDUCATION-CONSULTANCY-WEBSITE" target="_blank"><img src={Education} alt="education" /></a>
                 </div>
                 <div className="project-name">
                     <h3>Calnita</h3>

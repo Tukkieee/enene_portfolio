@@ -21,7 +21,7 @@
 
 }
 .navbar{
-  width: 60%;
+  width: 40%;
   background-color: #242A24;
   border-radius: 100px;
   /* height: 10vh; */
@@ -488,7 +488,6 @@ padding: 1rem 0;
     width: 100%;
   }
   .project-list{
-    border: 1px solid green;
     display: block;
   }
 }

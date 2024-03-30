@@ -19,11 +19,11 @@ export const Contact = () => {
                     </div>
                     <div className="social">
                         <div className="social-icons">
-                        <a href="https://www.instagram.com/enenemiracle/" target="_blank" rel="noreferrer"><FaBehance /></a>
-                            <a href="https://www.linkedin.com/in/enenemiracle/" target="_blank" rel="noreferrer"><FaLinkedinIn /></a>
-                            <a href="https://www.instagram.com/enenemiracle/" target="_blank" rel="noreferrer"><IoLogoWhatsapp /></a>
-                            <a href="https://twitter.com/EneneMiracle" target="_blank" rel="noreferrer"><FaTwitter /></a>
-                            <a href="https://www.instagram.com/enenemiracle/" target="_blank" rel="noreferrer"><RiTwitterXLine /></a>
+                        <a href="https://www.behance.net/miracleenene" target="_blank" rel="noreferrer"><FaBehance /></a>
+                            <a href="https://www.linkedin.com/in/miracle-enene-b88a3b201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><FaLinkedinIn /></a>
+                            <a href="https://wa.me/2349018295263" target="_blank" rel="noreferrer"><IoLogoWhatsapp /></a>
+                            <a href="https://x.com/EneneMiracle?t=IsodaJUaG1-Z23eVxymB1Q&s=09" target="_blank" rel="noreferrer"><FaTwitter /></a>
+                            <a href="https://www.instagram.com/_realsage?igsh=ZWM5dXdweHFyMHpp" target="_blank" rel="noreferrer"><RiTwitterXLine /></a>
                         </div>  
                     </div>
                 </div>
